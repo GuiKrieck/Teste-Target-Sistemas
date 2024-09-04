@@ -1,0 +1,155 @@
+{
+    "faturamentoMensal":[
+        {
+            "dia":"01",
+            "faturamento": "3590.00",
+            "diaUtil": true
+        },
+        {
+            "dia":"02",
+            "faturamento": "3648.00",
+            "diaUtil": true
+        },
+        {
+            "dia":"03",
+            "faturamento": "4590.00",
+            "diaUtil": true
+        },
+        {
+            "dia":"04",
+            "faturamento": "6750.00",
+            "diaUtil": true
+        },
+        {
+            "dia":"05",
+            "faturamento": "7590.00",
+            "diaUtil": true
+        },
+        {
+            "dia":"06",
+            "faturamento": "0.00",
+            "diaUtil": false
+        },
+        {
+            "dia":"07",
+            "faturamento": "0.00",
+            "diaUtil": false
+        },
+        {
+            "dia":"08",
+            "faturamento": "15240.00",
+            "diaUtil": true
+        },
+        {
+            "dia":"09",
+            "faturamento": "0.00",
+            "diaUtil": false
+        },
+        {
+            "dia":"10",
+            "faturamento": "7345.00",
+            "diaUtil": true
+        },
+        {
+            "dia":"11",
+            "faturamento": "2450.00",
+            "diaUtil": true
+        },
+        {
+            "dia":"12",
+            "faturamento": "6290.00",
+            "diaUtil": true
+        },
+        {
+            "dia":"13",
+            "faturamento": "0.00",
+            "diaUtil": false
+        },
+        {
+            "dia":"14",
+            "faturamento": "0.00",
+            "diaUtil": false
+        },
+        {
+            "dia":"15",
+            "faturamento": "9220.00",
+            "diaUtil": true
+        },
+        {
+            "dia":"16",
+            "faturamento": "8840.00",
+            "diaUtil": true
+        },
+        {
+            "dia":"17",
+            "faturamento": "4290.00",
+            "diaUtil": true
+        },
+        {
+            "dia":"18",
+            "faturamento": "5720.00",
+            "diaUtil": true
+        },
+        {
+            "dia":"19",
+            "faturamento": "12290.00",
+            "diaUtil": true
+        },
+        {
+            "dia":"20",
+            "faturamento": "0.00",
+            "diaUtil": false
+        },
+        {
+            "dia":"21",
+            "faturamento": "0.00",
+            "diaUtil": false
+        },
+        {
+            "dia":"22",
+            "faturamento": "13540.00",
+            "diaUtil": true
+        },
+        {
+            "dia":"23",
+            "faturamento": "16540.00",
+            "diaUtil": true
+        },
+        {
+            "dia":"24",
+            "faturamento": "8590.00",
+            "diaUtil": true
+        },
+        {
+            "dia":"25",
+            "faturamento": "5920.00",
+            "diaUtil": true
+        },
+        {
+            "dia":"26",
+            "faturamento": "0.00",
+            "diaUtil": true
+        },
+        {
+            "dia":"27",
+            "faturamento": "0.00",
+            "diaUtil": false
+        },
+        {
+            "dia":"28",
+            "faturamento": "0.00",
+            "diaUtil": false
+        },
+        {
+            "dia":"29",
+            "faturamento": "3540.00",
+            "diaUtil": true
+        },
+        {
+            "dia":"30",
+            "faturamento": "2490.00",
+            "diaUtil": true
+        }
+        
+    ]
+}
