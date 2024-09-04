@@ -24,5 +24,3 @@ for(const estado in faturamento){
 }
 
 
-console.log(faturamentoTotal);
-
